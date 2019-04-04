@@ -107,7 +107,7 @@ h1 {
     float: left;
     text-align: center;
     margin-top: 35px;
-    border-left-style: 3px solid #000;
+    /*border-left-style: 3px solid #000;*/
 }
 
 button {
@@ -129,7 +129,7 @@ input {
 
 .fa-instagram {
     font-size: 3em;
-    color: #3f729b;/*Instagram color*/
+    color: #fff;/*Instagram color*/
 }
 
 /*************About Styles************/
@@ -178,8 +178,11 @@ input {
 }
 
 .contact-container iframe {
-    width: 45%;
+    /*width: 45%;*/
     float: left;
     margin-left: 25px;
     
 }
+/*#wuf-adv {*/
+/*    color: blue;*/
+/*}*/
